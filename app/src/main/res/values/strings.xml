@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Schedule App</string>
+    <string name="app_name_ru">Расписание ИВТиПТ</string>
+
+    <string-array name="Groups" font_size="20sp">
+        <item>4.6</item>
+        <item>4.7</item>
+        <item>4.9</item>
+    </string-array>
+</resources>
